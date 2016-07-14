@@ -1,0 +1,36 @@
+c:\users\akai\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ocr.csprojResolveAssemblyReference.cache
+c:\users\akai\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ocr.Form1.resources
+c:\users\akai\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\akai\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ocr.csproj.GenerateResource.Cache
+c:\users\akai\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\akai\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\akai\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\akai\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\akai\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\C# prace\projekt\Nowsiec_neuronowa\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\C# prace\projekt\Nowsiec_neuronowa\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\C# prace\projekt\Nowsiec_neuronowa\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\C# prace\projekt\Nowsiec_neuronowa\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\C# prace\projekt\Nowsiec_neuronowa\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\C# prace\projekt\Nowsiec_neuronowa\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ocr.csprojResolveAssemblyReference.cache
+E:\C# prace\projekt\Nowsiec_neuronowa\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ocr.Form1.resources
+E:\C# prace\projekt\Nowsiec_neuronowa\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C# prace\projekt\Nowsiec_neuronowa\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ocr.csproj.GenerateResource.Cache
+D:\ocr\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\ocr\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\ocr\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\ocr\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\ocr\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\ocr\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ocr.csprojResolveAssemblyReference.cache
+D:\ocr\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ocr.Form1.resources
+D:\ocr\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\ocr\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ocr.csproj.GenerateResource.Cache
+D:\ocr\ocr-master\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\ocr\ocr-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\ocr\ocr-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\ocr\ocr-master\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\ocr\ocr-master\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\ocr\ocr-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ocr.csprojResolveAssemblyReference.cache
+D:\ocr\ocr-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ocr.Form1.resources
+D:\ocr\ocr-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\ocr\ocr-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ocr.csproj.GenerateResource.Cache
